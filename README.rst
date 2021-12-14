@@ -1,40 +1,67 @@
-AlertOps Expert Guidance
+Incident Response: Should You Prioritize Quality or Quantity?
 ========
+There are two common approaches to incident response: qualitative and quantitative. Each approach has its pros and cons. Meanwhile, an enterprise’s decision to take a qualitative or quantitative approach to incident response could have far-flung effects on the business, its employees and its customers.
 
- 
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
+So which is better: a qualitative or quantitative approach to incident response? To answer this question, let’s take a closer look at each incident response approach.
 
-Not One Size Fits All
-=====
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
-
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
-
-Automate Processes
+Qualitative Approach to Incident Response
 ====
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
+As the name indicates, a “qualitative” approach to incident response relies on data quality. It requires an enterprise to perform interviews, collect questionnaires and conduct other research to understand the qualities or characteristics of its incident response efforts.
 
-Clarity
+For example, let’s consider how an enterprise that takes a qualitative approach to incident response would handle a network outage.
+
+A network outage likely will affect an enterprise and its key stakeholders. Furthermore, failure to quickly address this issue may lead to revenue losses and brand reputation damage.
+
+During a network outage, an incident response team will work diligently to correct the issue. Once the issue is resolved, it will notify key stakeholders accordingly.
+
+At this point, an incident response team can still learn from the network outage. If this team takes a qualitative approach to incident response, it may use surveys to collect feedback from key stakeholders.
+
+A typical qualitative survey may include a series of open-ended questions to gauge a stakeholder’s emotional response to an incident. It allows incident response team members to review stakeholder feedback and use it to improve their day-to-day efforts.
+
+Stakeholder feedback empowers an incident response team with meaningful insights. At the same time, team members may need to dedicate significant time and resources to evaluate stakeholder feedback so they can maximize its value.
+
+Quantitative Approach to Incident Response
 ====
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
+Like a qualitative approach to incident response, a quantitative approach may involve the use of questionnaires or surveys. Conversely, a quantitative evaluation helps an incident response team answer questions like, “What was the root cause of an incident?” or “How many people were affected by an incident?”
 
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
+For instance, after a network outage, an incident response team that takes a quantitative approach may use a survey that contains closed-ended questions. Each question may require a “yes” or “no” response or ask a stakeholder to rate the team’s incident response efforts on a scale of 1 (lowest score) to 5 (highest score). An incident response team then can use the survey results to identify improvement areas.
 
-Insightful Notifications
+Performing a quantitative survey usually is straightforward. An incident response team can craft survey questions, provide the survey to stakeholders following an incident and evaluate the survey responses at its convenience.
+
+On the other hand, every incident is different, and the numbers behind an incident won’t necessarily tell the full story. Even with quantitative stakeholder survey results at its disposal, there is no guarantee an incident response team can obtain actionable insights that it can use to drive meaningful improvements.
+
+Should You Take a Qualitative or Quantitative Approach to Incident Response?
 ====
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
+By using a combination of qualitative and quantitative evaluations, an incident response team can get the most out of its incident data.
 
-Conclusion
+For example, consider what would happen if an enterprise used qualitative and quantitative assessments to evaluate its incident response efforts related to a network outage.
+
+A stakeholder survey that includes both open- and closed-ended questions empowers an incident response team with a wealth of meaningful data. The team can use this survey to understand the “how” and “what” behind its response efforts. Plus, it can find out how stakeholders feel about these efforts.
+
+Thanks to qualitative and quantitative assessments, an enterprise can ensure all incident response team members are on the same page, too.
+
+Qualitative and quantitative assessments enable incident response team members to mine massive amounts of incident data and identify the team’s strengths and weaknesses. Next, the assessments can help the team discover innovative ways to transform its weaknesses into strengths.
+
+Of course, a hybrid approach to incident response can extend beyond stakeholder evaluations as well.
+
+If an enterprise deploys an effective incident management system, it can retrieve data throughout an incident. It can even leverage data-driven reports and analytics that highlight incident response patterns and trends – something that could lead to long-lasting incident response improvements.
+
+Let’s not forget about how an enterprise can use an alert tracking system to streamline its incident communications, either.
+
+An enterprise may be responsible for notifying thousands of employees, customers and other stakeholders about an incident. Yet ensuring the right parties get the right messages at the right time is rarely simple.
+
+Now, an alert monitoring system helps an enterprise get the right messages to the right people during an incident. It also empowers an incident response team to craft custom messages to its target audience. As a result, the system allows an incident response team to simultaneously retrieve data and keep stakeholders up to date until an incident is resolved.
+
+The Bottom Line on Qualitative and Quantitative Approaches to Incident Response
 ====
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
+When it comes to incident response, qualitative and quantitative approaches offer various advantages and disadvantages. With a hybrid approach to incident response, an enterprise is better equipped than ever before to simplify and enhance its incident response efforts.
 
-1 Red Canary 2021 Threat Detection Report
+An alert tracking system that offers rich notifications and reporting can provide the foundation of a hybrid approach to incident response. The system helps an incident response team notify key stakeholders about an incident, track incident data, produce incident reports and much more. Thus, an alert monitoring system can help an incident response team establish goals and drive continuous improvement.
+
 
 source:
 ====
-https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
+https://alertops.com/incident-response-quality-quantity/
 
 Read more:
 ====
